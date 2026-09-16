@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Página-1" id="Ex1nq2vY0A4bWpCk1rGY">
-    <mxGraphModel dx="1664" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="975" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -184,31 +184,17 @@
         <mxCell id="h059xwt0ZKzC0CNNWNfZ-45" edge="1" parent="1" source="h059xwt0ZKzC0CNNWNfZ-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="h059xwt0ZKzC0CNNWNfZ-41">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="h059xwt0ZKzC0CNNWNfZ-47" connectable="0" parent="h059xwt0ZKzC0CNNWNfZ-45" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Probar pantalla" vertex="1">
-          <mxGeometry relative="1" x="-0.1089" y="-2" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="h059xwt0ZKzC0CNNWNfZ-32" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="seleccion de opcion" vertex="1">
           <mxGeometry height="80" width="120" x="340" y="1160" as="geometry" />
         </mxCell>
         <mxCell id="h059xwt0ZKzC0CNNWNfZ-36" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="60" width="120" x="120" y="1260" as="geometry" />
         </mxCell>
-        <mxCell id="h059xwt0ZKzC0CNNWNfZ-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;Mostrar menu de juegos&lt;/span&gt;" vertex="1">
+        <mxCell id="h059xwt0ZKzC0CNNWNfZ-40" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" value="" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="1330" as="geometry" />
         </mxCell>
         <mxCell id="h059xwt0ZKzC0CNNWNfZ-41" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="580" y="1230" as="geometry" />
-        </mxCell>
-        <mxCell id="h059xwt0ZKzC0CNNWNfZ-48" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="310" width="540" x="1710" y="1060" as="geometry" />
-        </mxCell>
-        <mxCell id="h059xwt0ZKzC0CNNWNfZ-49" parent="h059xwt0ZKzC0CNNWNfZ-48" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="310" width="540" as="geometry" />
-        </mxCell>
-        <mxCell id="h059xwt0ZKzC0CNNWNfZ-50" parent="h059xwt0ZKzC0CNNWNfZ-48" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;Menu de juegos&lt;/span&gt;" vertex="1">
-          <mxGeometry height="40" width="220" x="160" y="20" as="geometry" />
+          <mxGeometry height="60" width="120" x="560" y="1240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
